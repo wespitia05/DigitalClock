@@ -28,7 +28,7 @@ pip install PyQt5
 ```
 
 ## Screenshots
-(digital_clock_ss.png)
+![Digital Clock Screenshot](digital_clock_ss.png)
 * Screenshot of the output for the digital clock.
 
 ## Running
